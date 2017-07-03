@@ -1,0 +1,2 @@
+# WaICoin
+Coin
